@@ -2,5 +2,4 @@
 
 Commit 1: I added some lines.
 
-
-Tuto GIthub
+Commit 2: Removed title
